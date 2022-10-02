@@ -10,7 +10,7 @@
 ## Languages:
 <p align="left">
   <img alt="Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/python/python-original.svg">
-  <img alt="C++" width="40" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/c++/c++-original.svg">
+  <img alt="C++" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/c++/c++-original.svg](https://drive.google.com/file/d/13rdoJRwW0Gy0-6-pRrRsx6lE_rijRuLl/view?usp=sharing)">
   <img alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img alt="HTML5" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
