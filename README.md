@@ -17,8 +17,8 @@
  </p>
 
 ## Connect with me:
-[<img align="left" alt="Email" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg">][email]
-[<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
+[<img align="left" alt="Email" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">][email]
+[<img align="left" alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">][linkedin]
 
 [swarthmore]: https://www.swarthmore.edu
 
