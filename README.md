@@ -2,7 +2,7 @@
 
 ## Currently a Student, Developer, Physics enthusiast and aspiring Software Engineer!
 
-- 📚 I am studying Computer Science & Physics @ Swarthmore College.
+- 📚 I am studying Computer Science & Statistics @ Swarthmore College.
 
 - 🔭 My best languages are Python and C++.
 
