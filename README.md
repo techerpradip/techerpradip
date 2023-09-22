@@ -4,7 +4,7 @@
 
 - 📚 I am studying Computer Science & Statistics @ Swarthmore College.
 
-- 🔭 My best languages are Python and C++.
+- 🔭 My best languages are C++ and Python.
 
 
 ## Languages:
