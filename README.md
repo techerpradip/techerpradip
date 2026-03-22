@@ -24,6 +24,6 @@
 
 [swarthmore]: https://www.swarthmore.edu
 
-[email]: mailto:psharma1@swarthmore.edu 
+[email]: mailto:pradip@utexas.edu 
 [linkedin]: https://www.linkedin.com/in/techerpradip
 
