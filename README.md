@@ -1,8 +1,10 @@
 # Hi there, I'm Pradip 👋
 
-## Currently a Student, Developer, Physics enthusiast and aspiring Software Engineer!
+## Currently a Student, Developer, and Researcher!
 
-- 📚 I am studying Computer Science & Statistics @ Swarthmore College.
+- 📚 I am currently doing a Statistics PhD @ UT Austin.
+- 📚 I did my undergrad in CS and Math @ Swarthmore College.
+- 📚 Junior year, I was a visiting student in CS and Stats @ University of Oxford.
 
 - 🔭 My best languages are C++, C and Python.
 
