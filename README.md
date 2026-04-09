@@ -25,5 +25,5 @@
 [swarthmore]: https://www.swarthmore.edu
 
 [email]: mailto:pradip@utexas.edu 
-[linkedin]: https://www.linkedin.com/in/techerpradip
+[linkedin]: https://www.linkedin.com/in/pradipspoudel/
 
